@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="trees.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="198.79442"
+     inkscape:cy="370.46303"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     height="700px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36218)">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 402.85714,30 c 0,0 117.14286,98.57143 122.85715,242.85714 C 531.42857,417.14286 418.57143,410 418.57143,410"
+       id="path5063"
+       inkscape:connector-curvature="0"
+       transform="translate(0,352.36218)" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 211.42857,667.14286 0,-372.85715"
+       id="path5065"
+       inkscape:connector-curvature="0"
+       transform="translate(0,352.36218)" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 108.57143,537.14286 0,-372.85715"
+       id="path5067"
+       inkscape:connector-curvature="0"
+       transform="translate(0,352.36218)" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 32.857143,662.85714 0,-374.28571"
+       id="path5069"
+       inkscape:connector-curvature="0"
+       transform="translate(0,352.36218)" />
+    <g
+       id="g4065"
+       transform="matrix(1.0104582,0,0,0.74532421,-685.92607,-95.025292)">
+      <g
+         transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)"
+         id="g3411">
+        <rect
+           id="rect3413"
+           height="39"
+           width="46.75"
+           y="330.29999"
+           x="355.52399"
+           style="fill:#ffffff" />
+        <rect
+           id="rect3415"
+           height="39"
+           width="46.75"
+           y="330.29999"
+           x="355.52399"
+           style="fill:none;stroke:#000000;stroke-width:3" />
+        <text
+           id="text3417"
+           y="353.70001"
+           x="378.89899"
+           style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+           font-size="12.8">
+          <tspan
+             id="tspan3419"
+             y="353.70001"
+             x="378.89899">if•<tspan
+   style="fill:#44aa00"
+   id="tspan3221">4</tspan>
+</tspan>
+        </text>
+      </g>
+      <g
+         id="g4009">
+        <g
+           id="g3421"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="185.125"
+             y="430.29999"
+             width="67.550003"
+             height="39"
+             id="rect3423" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="185.125"
+             y="430.29999"
+             width="67.550003"
+             height="39"
+             id="rect3425" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="218.89999"
+             y="453.70001"
+             id="text3427">
+            <tspan
+               x="218.89999"
+               y="453.70001"
+               id="tspan3429">&gt;•<tspan
+   style="fill:#55d400"
+   id="tspan3223">true</tspan>
+</tspan>
+          </text>
+        </g>
+        <g
+           id="g3431"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="155.75"
+             y="530.29999"
+             width="46.299999"
+             height="39"
+             id="rect3433" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="155.75"
+             y="530.29999"
+             width="46.299999"
+             height="39"
+             id="rect3435" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="178.89999"
+             y="553.70001"
+             id="text3437">
+            <tspan
+               x="178.89999"
+               y="553.70001"
+               id="tspan3439">x•<tspan
+   style="fill:#55d400"
+   id="tspan3211">3</tspan>
+</tspan>
+          </text>
+        </g>
+        <g
+           id="g3441"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="235.474"
+             y="530.29999"
+             width="46.849998"
+             height="39"
+             id="rect3443" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="235.474"
+             y="530.29999"
+             width="46.849998"
+             height="39"
+             id="rect3445" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="258.89899"
+             y="553.70001"
+             id="text3447">
+            <tspan
+               x="258.89899"
+               y="553.70001"
+               id="tspan3449">0•<tspan
+   style="fill:#55d400"
+   id="tspan3213">0</tspan>
+</tspan>
+          </text>
+        </g>
+        <g
+           id="g3451"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="354.17401"
+             y="430.29999"
+             width="49.450001"
+             height="39"
+             id="rect3453" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="354.17401"
+             y="430.29999"
+             width="49.450001"
+             height="39"
+             id="rect3455" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="378.89899"
+             y="453.70001"
+             id="text3457">
+            <tspan
+               x="378.89899"
+               y="453.70001"
+               id="tspan3459">+•<tspan
+   style="fill:#55d400"
+   id="tspan3219">4</tspan>
+</tspan>
+          </text>
+        </g>
+        <g
+           id="g3461"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="518.90002"
+             y="430.29999"
+             width="40"
+             height="39"
+             id="rect3463" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="518.90002"
+             y="430.29999"
+             width="40"
+             height="39"
+             id="rect3465" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="538.90002"
+             y="453.70001"
+             id="text3467">
+            <tspan
+               x="538.90002"
+               y="453.70001"
+               id="tspan3469">-•</tspan>
+          </text>
+        </g>
+        <g
+           id="g3471"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="315.75"
+             y="530.29999"
+             width="46.299999"
+             height="39"
+             id="rect3473" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="315.75"
+             y="530.29999"
+             width="46.299999"
+             height="39"
+             id="rect3475" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="338.89999"
+             y="553.70001"
+             id="text3477">
+            <tspan
+               x="338.89999"
+               y="553.70001"
+               id="tspan3479">x•<tspan
+   style="fill:#55d400"
+   id="tspan3215">3</tspan>
+</tspan>
+          </text>
+        </g>
+        <g
+           id="g3481"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="478.89999"
+             y="530.29999"
+             width="40"
+             height="39"
+             id="rect3483" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="478.89999"
+             y="530.29999"
+             width="40"
+             height="39"
+             id="rect3485" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="498.89999"
+             y="553.70001"
+             id="text3487">
+            <tspan
+               x="498.89999"
+               y="553.70001"
+               id="tspan3489">x•</tspan>
+          </text>
+        </g>
+        <g
+           id="g3491"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="395.474"
+             y="530.29999"
+             width="46.849998"
+             height="39"
+             id="rect3493" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="395.474"
+             y="530.29999"
+             width="46.849998"
+             height="39"
+             id="rect3495" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="418.89899"
+             y="553.70001"
+             id="text3497">
+            <tspan
+               x="418.89899"
+               y="553.70001"
+               id="tspan3499">1•<tspan
+   style="fill:#55d400"
+   id="tspan3217">1</tspan>
+</tspan>
+          </text>
+        </g>
+        <g
+           id="g3501"
+           transform="matrix(1.7716535,0,0,1.7716535,405.87284,17.90566)">
+          <rect
+             style="fill:#ffffff"
+             x="558.90002"
+             y="530.29999"
+             width="40"
+             height="39"
+             id="rect3503" />
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:3"
+             x="558.90002"
+             y="530.29999"
+             width="40"
+             height="39"
+             id="rect3505" />
+          <text
+             font-size="12.8"
+             style="font-size:12.80000019px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+             x="578.90002"
+             y="553.70001"
+             id="text3507">
+            <tspan
+               x="578.90002"
+               y="553.70001"
+               id="tspan3509">1•</tspan>
+          </text>
+        </g>
+        <line
+           style="fill:none;stroke:#0000ff;stroke-width:5.31496048"
+           x1="853.2207"
+           y1="777.58716"
+           x2="1033.1019"
+           y2="665.16156"
+           id="line3511" />
+        <line
+           style="fill:none;stroke:#0000ff;stroke-width:5.31496048"
+           x1="737.70532"
+           y1="954.75244"
+           x2="778.80414"
+           y2="852.00366"
+           id="line3513" />
+        <line
+           style="fill:none;stroke:#0000ff;stroke-width:5.31496048"
+           x1="849.66852"
+           y1="954.75244"
+           x2="808.57147"
+           y2="852.00366"
+           id="line3515" />
+        <line
+           style="fill:none;stroke:#0000ff;stroke-width:5.31496048"
+           x1="1021.1699"
+           y1="954.75244"
+           x2="1062.2668"
+           y2="852.00366"
+           id="line3517" />
+        <line
+           style="fill:none;stroke:#0000ff;stroke-width:5.31496048"
+           x1="1077.1505"
+           y1="777.58716"
+           x2="1077.1505"
+           y2="674.83832"
+           id="line3519" />
+        <line
+           style="fill:none;stroke:#0000ff;stroke-width:5.31496048"
+           x1="1133.1331"
+           y1="954.75244"
+           x2="1092.0342"
+           y2="852.00366"
+           id="line3521" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:5.31496048"
+           x1="1304.6344"
+           y1="954.75244"
+           x2="1345.7333"
+           y2="852.00366"
+           id="line3523" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:5.31496048"
+           x1="1416.5995"
+           y1="954.75244"
+           x2="1375.5006"
+           y2="852.00366"
+           id="line3525" />
+        <line
+           style="fill:none;stroke:#000000;stroke-width:5.31496048"
+           x1="1322.537"
+           y1="790.995"
+           x2="1121.1992"
+           y2="665.16156"
+           id="line3527" />
+      </g>
+    </g>
+    <rect
+       id="rect3531"
+       height="51.469612"
+       width="89.931046"
+       y="734.25446"
+       x="359.75513"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3533"
+       height="51.469612"
+       width="89.931046"
+       y="734.25446"
+       x="359.75513"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3535"
+       y="881.41455"
+       x="351.32892"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3537"
+         y="881.41455"
+         x="351.32892">if•<tspan
+   style="fill:#55d400"
+   id="tspan3209">-2</tspan>
+</tspan>
+    </text>
+    <rect
+       id="rect3541"
+       height="51.469612"
+       width="118.30269"
+       y="866.22778"
+       x="65.35743"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3543"
+       height="51.469612"
+       width="118.30269"
+       y="866.22778"
+       x="65.35743"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3545"
+       y="1033.4441"
+       x="108.08331"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3547"
+         y="1033.4441"
+         x="108.08331">&gt;•<tspan
+   style="fill:#008000"
+   id="tspan3197">true</tspan>
+</tspan>
+    </text>
+    <rect
+       id="rect3551"
+       height="51.469612"
+       width="103.41632"
+       y="998.20117"
+       x="2.7472093"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3553"
+       height="51.469612"
+       width="103.41632"
+       y="998.20117"
+       x="2.7472093"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3555"
+       y="1185.4736"
+       x="47.271519"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3557"
+         y="1185.4736"
+         x="47.271519">x•<tspan
+   style="fill:#008000"
+   id="tspan3199">-1</tspan>
+</tspan>
+    </text>
+    <rect
+       id="rect3561"
+       height="51.469612"
+       width="82.050041"
+       y="998.20117"
+       x="153.5354"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3563"
+       height="51.469612"
+       width="82.050041"
+       y="998.20117"
+       x="153.5354"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3565"
+       y="1185.4736"
+       x="168.89352"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3567"
+         y="1185.4736"
+         x="168.89352">0•<tspan
+   style="fill:#008000"
+   id="tspan3201">0</tspan>
+</tspan>
+    </text>
+    <rect
+       id="rect3571"
+       height="51.469612"
+       width="86.603516"
+       y="866.22778"
+       x="361.41895"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3573"
+       height="51.469612"
+       width="86.603516"
+       y="866.22778"
+       x="361.41895"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3575"
+       y="1033.4441"
+       x="351.32892"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3577"
+         y="1033.4441"
+         x="351.32892">+•</tspan>
+    </text>
+    <rect
+       id="rect3581"
+       height="51.469612"
+       width="83.888947"
+       y="866.22778"
+       x="642.99158"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3583"
+       height="51.469612"
+       width="83.888947"
+       y="866.22778"
+       x="642.99158"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3585"
+       y="1033.4441"
+       x="594.57751"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3587"
+         y="1033.4441"
+         x="594.57751">-•<tspan
+   style="fill:#44aa00"
+   id="tspan3203">-2</tspan>
+</tspan>
+    </text>
+    <rect
+       id="rect3591"
+       height="51.469612"
+       width="81.086807"
+       y="998.20117"
+       x="294.12555"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3593"
+       height="51.469612"
+       width="81.086807"
+       y="998.20117"
+       x="294.12555"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3595"
+       y="1185.4736"
+       x="290.51865"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3597"
+         y="1185.4736"
+         x="290.51865">x•</tspan>
+    </text>
+    <rect
+       id="rect3601"
+       height="51.469612"
+       width="89.142952"
+       y="998.20117"
+       x="570.3111"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3603"
+       height="51.469612"
+       width="89.142952"
+       y="998.20117"
+       x="570.3111"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3605"
+       y="1185.4736"
+       x="533.76569"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3607"
+         y="1185.4736"
+         x="533.76569">x•<tspan
+   style="fill:#55d400"
+   id="tspan3205">-1</tspan>
+</tspan>
+    </text>
+    <rect
+       id="rect3611"
+       height="51.469612"
+       width="82.050041"
+       y="998.20117"
+       x="433.74896"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3613"
+       height="51.469612"
+       width="82.050041"
+       y="998.20117"
+       x="433.74896"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3615"
+       y="1185.4736"
+       x="412.14066"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3617"
+         y="1185.4736"
+         x="412.14066">1•</tspan>
+    </text>
+    <rect
+       id="rect3621"
+       height="51.469612"
+       width="82.050041"
+       y="998.20117"
+       x="713.96259"
+       style="fill:#ffffff" />
+    <rect
+       id="rect3623"
+       height="51.469612"
+       width="82.050041"
+       y="998.20117"
+       x="713.96259"
+       style="fill:none;stroke:#000000;stroke-width:4.56088352" />
+    <text
+       id="text3625"
+       y="1185.4736"
+       x="655.38782"
+       style="font-size:19.45977211px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:sans-serif"
+       font-size="12.8"
+       transform="scale(1.1519708,0.86807755)">
+      <tspan
+         id="tspan3627"
+         y="1185.4736"
+         x="655.38782">1•<tspan
+   style="fill:#55d400"
+   id="tspan3207">1</tspan>
+</tspan>
+    </text>
+    <line
+       style="fill:none;stroke:#0000ff;stroke-width:4.56088352"
+       x1="183.35889"
+       y1="864.24554"
+       x2="357.38028"
+       y2="782.28619"
+       id="line3629" />
+    <line
+       style="fill:none;stroke:#0000ff;stroke-width:4.56088352"
+       x1="69.168381"
+       y1="996.21893"
+       x2="109.79585"
+       y2="919.67969"
+       id="line3631" />
+    <line
+       style="fill:none;stroke:#0000ff;stroke-width:4.56088352"
+       x1="179.84744"
+       y1="996.21893"
+       x2="139.22173"
+       y2="919.67969"
+       id="line3633" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:4.56088352"
+       x1="349.38196"
+       y1="996.21893"
+       x2="390.00766"
+       y2="919.67969"
+       id="line3635" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:4.56088352"
+       x1="404.72064"
+       y1="864.24554"
+       x2="404.72064"
+       y2="787.7063"
+       id="line3637" />
+    <line
+       style="fill:none;stroke:#000000;stroke-width:4.56088352"
+       x1="460.06113"
+       y1="996.21893"
+       x2="419.43362"
+       y2="919.67969"
+       id="line3639" />
+    <line
+       style="fill:none;stroke:#0000ff;stroke-width:4.56088352"
+       x1="629.59546"
+       y1="996.21893"
+       x2="670.22302"
+       y2="919.67969"
+       id="line3641" />
+    <line
+       style="fill:none;stroke:#0000ff;stroke-width:4.56088352"
+       x1="740.27466"
+       y1="996.21893"
+       x2="699.64893"
+       y2="919.67969"
+       id="line3643" />
+    <line
+       style="fill:none;stroke:#0000ff;stroke-width:4.56088352"
+       x1="640.4679"
+       y1="871.01978"
+       x2="452.06094"
+       y2="782.28619"
+       id="line3645" />
+  </g>
+</svg>
